@@ -1,0 +1,19 @@
+---
+
+mattermost:
+  server_url: "https://mattermost.example.com"
+  bot_token: "bot_token"
+  team_id: "team_id"
+  channel_id: "channel_id"
+#  webhook:
+
+tarantool:
+  host: "tarantool"
+  port: 3301
+  user: "user"
+  password: "password"
+  space: 512
+
+http_server:
+  host: "localhost"
+  port: 8080
